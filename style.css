@@ -5,9 +5,7 @@ p{
     border-color:red ;
     border-left-style:solid; 
     border-radius: 15px;
-    text-align: center;
-    text-transform: capitalize;
-    font-weight: bold;
+    
 }
 
 #para1 {
@@ -21,21 +19,6 @@ p{
 }
 h1{
     background-color: lightblue;
-    margin-left: 20px;
-    /* margin: 20px 40px 20px 40px; */
-    margin: 30px 30px;
-    /* margin:30px auto; */
-    width: fit-content;
-    padding-left: 10px;
-    padding-right: 10px;
-    padding-top: 40px;
-    padding-bottom: 40px;
-    height: 100px;
-    width: 50%;
-    text-transform: uppercase;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-style: italic;
-    font-size: 50px;
 }
 body{
     background-image: url(assets/background.avif);
@@ -43,30 +26,3 @@ body{
     background-position: top right;
     background-attachment: fixed;
 }
-.text{
-    width: 200px;
-    border-radius: 2px;
-    border-style:ridge;
-    border-style:solid ;
-    border-color: red;
-    padding: 25px;
-    margin-left: 25px;
-    outline: 5px solid black;
-
-}
-a{
-    text-decoration: none;
-    color: red;
-
-}
-
-a:visited{
-    color:  greenyellow;
-}
-a:hover{
-    color: black;
-}
-.intro{
-    text-indent: 20px;
-}
-
